@@ -11,6 +11,14 @@ El presente EDA trata sobre la población china y la intervención estatal en la
 1) La injerencia estatal en materia de control poblacional es negativa en este caso.
 2) El envejecimiento poblacional es un problema más difícil de corregir que la desproporción de género en términos de tiempo. 
 
+## KPIs
+* Crecimiento interanual
+* Tasa de fertilidad
+* Tasa de dependencia
+* Ratio nacimientos H/M
+* Exceso de hombres
+* Población según edad y género
+
 ## Contenido
 Este análisis ha sido realizado utilizando datos públicos de fuentes confiables como el Banco Mundial y de otras fuentes especializadas como [Our World in Data](https://ourworldindata.org/) o artículos de investigación. El análisis se divide en cuatro secciones principales:
 
@@ -51,12 +59,17 @@ Tener conocimiento sobre las tendencias poblacionales de un país puede ser un f
 
 ***
 ## Fuentes
-* .
-* .
-* .
-* .
+* ZHIHU, imágenes: https://zhuanlan.zhihu.com (09/04/2023)
 
+* ZHAO BINGLI, entrevista: http://www.china.org.cn/english/2002/Oct/46138.htm (09/04/2023)
 
+* INE, tasa de dependencia española https://www.ine.es/jaxiT3/Datos.htm?t=1455 (19/04/2023)
+
+* POPULATION PYRAMID, población mundial por edad: https://www.populationpyramid.net/china/2023/ (19/04/23)
+
+* BANCO MUNDIAL, población mundial por género: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN (09/04/23)
+
+* APUNTES DE DEMOGRAFÍA, hijo único https://apuntesdedemografia.com/polpob/maltusianismo/china-y-el-hijo-unico/ (09/04/23)
 
 ***
 ### Requirements
