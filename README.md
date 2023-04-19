@@ -1,3 +1,4 @@
+![Cabecero](./Data/"image.png")
 # Análisis Exploratorio de Datos (EDA) sobre población china
 El presente EDA trata sobre la población china y la intervención estatal en la generación de problemas actuales como el envejecimiento de la población y la desproporción entre hombres y mujeres.
 
