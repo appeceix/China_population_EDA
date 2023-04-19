@@ -1,16 +1,16 @@
 # Análisis Exploratorio de Datos (EDA) sobre población china
 El presente EDA trata sobre la población china y la intervención estatal en la generación de problemas actuales como el envejecimiento de la población y la desproporción entre hombres y mujeres.
 
-# Objetivos del EDA 
+## Objetivos del EDA 
 - Analizar los patrones y tendencias de la población china en el último siglo.
 - Estudiar su relación con la política estatal y la cultura.
 - Plantear futuras líneas de estudio u oportunidades a explorar.
 
-# Hipótesis:
+## Hipótesis:
 1) La injerencia estatal en materia de control poblacional es negativa en este caso.
 2) El envejecimiento poblacional es un problema más difícil de corregir que la desproporción de género en términos de tiempo. 
 
-# Contenido:
+## Contenido:
 Este análisis ha sido realizado utilizando datos públicos de fuentes confiables como el Banco Mundial y de otras fuentes especializadas como [Our World in Data](https://ourworldindata.org/). El análisis se divide en cuatro secciones principales:
 
 1) Introducción y contexto:
@@ -34,7 +34,7 @@ El estudio de la población permite que se abra una miríada de posibilidades pa
     - Estrés social en un entorno de competencia por la desproporción en el número de hombres por mujer.
     - Límite de la demanda interna.
     - Densidad poblacional completamente asimétrica en los ejes campo/ciudad y costa/interior.
-    - Inmigración interna, sistema *hukou*.
+    - Inmigración interna, sistema hukou.
 
 
 ### Oportunidades:
